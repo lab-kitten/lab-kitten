@@ -50,7 +50,7 @@
 
 # You should know
 
-- To use the lab side program you need to register first (**I know you hate register, but the purpose is to protect your data via authentication, also only users with .edu email address can use lab-kitten**). Then you need to tell lab-kitten these credentials, the name of your experiment and the location of the executable for initialization, please refer to the following examples
+- To use the lab side program you need to register first (**I know you hate register, but the purpose is to protect your data via authentication, also only users with .edu email address can use lab-kitten**). Then on the lab side you need to tell lab-kitten these credentials, the name of your experiment and the location of the executable for initialization, please refer to the examples
 
 # Others
 
