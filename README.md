@@ -1,7 +1,7 @@
 
 # [App home page](https://lab-kitten.github.io)
 
-<img src="https://raw.githubusercontent.com/lab-kitten/lab-kitten/master/images/mobile-view.jpg" style="max-width:30%;">
+<img src="https://raw.githubusercontent.com/lab-kitten/lab-kitten/master/images/mobile-view.jpg" width='300'>
 
 # Introduction
 
