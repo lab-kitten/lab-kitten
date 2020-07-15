@@ -1,7 +1,10 @@
 
 # [App home page](https://lab-kitten.github.io)
 
-![mobile-view](images/mobile-view.jpg)
+<p style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/lab-kitten/lab-kitten/master/images/mobile-view.jpg"
+    style="width: 300px;">
+</p>
 
 # Introduction
 
