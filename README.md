@@ -32,13 +32,13 @@
     - [**example-1-random.py**](https://github.com/lab-kitten/lab-kitten/blob/master/python/example-1-random.py)
     - [**example-2-sin-waves.py**](https://github.com/lab-kitten/lab-kitten/blob/master/python/example-2-sin-waves.py)
 
-[![Watch the video]()](https://www.youtube.com/watch?v=ELzClaba8cI)
+[![Watch the video](usage-lab-side.PNG)](https://www.youtube.com/watch?v=ELzClaba8cI)
 
 # Usage (Lab staff side)
 
 - **Step 1:** Go to **https://lab-kitten.github.io** , that’s it !
 
-[![Watch the video]()](https://www.youtube.com/watch?v=l3uMzQhTSMA)
+[![Watch the video](usage-lab-staff-side.PNG)](https://www.youtube.com/watch?v=l3uMzQhTSMA)
 
 # You should know
 
