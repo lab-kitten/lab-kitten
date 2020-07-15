@@ -1,6 +1,10 @@
 
 # [App home page](https://lab-kitten.github.io)
 
+- In the lab computer, run: [**example-2-sin-waves.py**](https://github.com/lab-kitten/lab-kitten/blob/master/python/example-2-sin-waves.py)
+
+- Then on your phone or home computer you get:
+
 <img src="https://raw.githubusercontent.com/lab-kitten/lab-kitten/master/images/mobile-view.jpg" width='300'>
 
 # Introduction
