@@ -1,4 +1,6 @@
 
+# [App home page](https://lab-kitten.github.io)
+
 # Introduction
 
 - `lab-kitten` is toolkit for labs / experiments originally developed by [Ding Ruiqi](https://github.com/tesla-cat) for [Yvonne Gao’s quantum computing lab](https://quantumcrew.org/) at National University of Singapore (NUS)
