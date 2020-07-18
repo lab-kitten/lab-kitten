@@ -1,5 +1,5 @@
 
-# [App home page](https://lab-kitten.github.io)
+# [App home page (click me)](https://lab-kitten.github.io)
 
 - In the lab computer, run: [**example-2-sin-waves.py**](https://github.com/lab-kitten/lab-kitten/blob/master/python/example-2-sin-waves.py)
 
