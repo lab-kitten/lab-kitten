@@ -17,7 +17,7 @@ def makePlot(y1, y2):
 N = 66; timeWindow = 0.5; startTime = time.time()
 kitten = LabKitten(
     email='e0134117@u.nus.edu', password='123456', experimentName='sine wave',
-    exePath=r'D:\GitHub\lab-kitten\LabKitten-win\LabKitten-win.exe',
+    exePath=r'D:\GitHub\1-lab-kitten\LabKitten-win\LabKitten-win.exe',
 )
 
 while True:
