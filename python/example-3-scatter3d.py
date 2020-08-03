@@ -8,10 +8,16 @@ def around(x): return np.around(x, 4).tolist()
 def makePlot(y1, y2):
     return {
         'data': [
-            {'x': 'commonX', 'y': around(y1), 'type': 'scatter' },
-            {'x': 'commonX', 'y': around(y2), 'type': 'scatter' },
+            {'x': 'commonX', 'y': around(y1), 'z': around(y2), 'type': 'scatter3d' },
         ],
-        'layout': {'height': 300, 'title': 'lab kitten meow !'}
+        'layout':{
+            'scene':{
+	            'aspectmode': "manual",
+                'aspectratio': { 'x': 1, 'y': 1, 'z': 1 },
+                'yaxis': { 'nticks': 10, 'range': [-1, 1] },
+                'zaxis': { 'nticks': 10, 'range': [-1, 1] }
+            }
+        }
     }
 
 N = 66; timeWindow = 0.5; startTime = time.time()
@@ -27,7 +33,6 @@ while True:
     kitten.observe({
         'plots': [
             makePlot( sin(1,t), sin(2,t) ), 
-            makePlot( sin(3,t), sin(4,t) ), 
         ],
         'commonX': around(t),
     })

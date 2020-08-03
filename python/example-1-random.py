@@ -12,7 +12,7 @@ def makePlot(x, y):
 N = 66; timeWindow = 0.5; startTime = time.time()
 kitten = LabKitten(
     email='e0134117@u.nus.edu', password='123456', experimentName='random',
-    exePath=r'D:\GitHub\lab-kitten\LabKitten-win\LabKitten-win.exe',
+    exePath=r'C:\Users\Rick\Desktop\LabKitten-win\LabKitten-win.exe',
 )
 
 while True:

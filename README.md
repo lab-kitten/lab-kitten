@@ -12,12 +12,7 @@
 - `lab-kitten` is toolkit for labs / experiments originally developed by [Ding Ruiqi](https://github.com/tesla-cat) for [Yvonne Gao’s quantum computing lab](https://quantumcrew.org/) at National University of Singapore (NUS)
 - Current features
     - Real-time plotting of lab data powered by the state of the art **decentralized** [WebRTC technology](https://en.wikipedia.org/wiki/WebRTC), which is the real-time technology of [highest performance](https://raw.githubusercontent.com/lab-kitten/lab-kitten/master/images/1-WebRTC.png), thus have been widely used in live-streaming, video chat applications etc.
-- Upcoming features ([click me to request for a feature](https://github.com/lab-kitten/lab-kitten/issues/1))
-    - Various handy calculators
-    - Useful advertising / rating of scientific instruments
-    - Machine learning support
-    - Socializing: Chat, Q&A forum, file transfer
-    - `lab-kitten` will be modular! You can [become a community contributor](https://github.com/lab-kitten/lab-kitten/issues/3) and submit addons to it!
+
 
 # Disclaimer
 
@@ -39,6 +34,7 @@
 - **Step 3:** Follow the examples
     - [**example-1-random.py**](https://github.com/lab-kitten/lab-kitten/blob/master/python/example-1-random.py)
     - [**example-2-sin-waves.py**](https://github.com/lab-kitten/lab-kitten/blob/master/python/example-2-sin-waves.py)
+    - [**example-3-scatter3d**](https://github.com/lab-kitten/lab-kitten/blob/master/python/example-3-scatter3d.py)
 
 [![Watch the video](images/usage-lab-side.PNG)](https://www.youtube.com/watch?v=ELzClaba8cI)
 
